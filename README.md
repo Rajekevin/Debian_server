@@ -2,7 +2,8 @@
 ![Screenshot](pictures/debian_banner.png)
 
 - [Web Server](#web_server)
-- [Gitlab Serveur](#gitlab_server)
+- [Gitlab Serveur][a link](https://github.com/user/repo/blob/branch/other_file.md)
+
 
 ## Configuring web server in Debian 9
 ### Update Package
